@@ -1,1 +1,1 @@
-alert ("")
+alert ("Welcome to Github challenge")

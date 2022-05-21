@@ -1,5 +1,13 @@
-hi{color: red;
+h1{color: red;
     display:block;
     text-align:center;
     font-size: 180px;
+
+
+}
+h3{
+    color: grey;
+    text-align: center;
+    font-size:60px; 
+    margin: 1px;
 }
